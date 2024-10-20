@@ -8,7 +8,7 @@ Task 2: Guessing Game Description: Implemented a guessing game where users guess
 
 Task 3: Contact Manager System Description: Designed a contact management system allowing users to add, delete, and update contacts. Technologies Used: java
 
-Task 4: Sudoku Game Description: Created a Sudoku game application with features for generating, solving, and validating Sudoku puzzles. Technologies Used:
+Task 4: Sudoku Game Description: Created a Sudoku game application with features for generating, solving, and validating Sudoku puzzles. Technologies Used:java
 
 Feedback and Contributions  are welcome! If you have any suggestions for improvements or would like to contribute to any of the projects, feel free to open an issue or submit a pull request.
 
